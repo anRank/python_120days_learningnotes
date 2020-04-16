@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76877724-943f-4a4a-b611-5f6de63b02a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python 120 days/第30天：Python collections 模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python 120 days/第31天：Python random 模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python 120 days/第62天：HTTP 入门.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python 120 days/第79天：数据分析之 Numpy 初步.py" beforeDir="false" afterPath="$PROJECT_DIR$/python 120 days/第79天：数据分析之 Numpy 初步.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +32,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.第30天：Python collections 模块">
+  <component name="RunManager" selected="Python.第31天：Python random 模块">
     <configuration name="第25天：Python datetime 和 time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python120days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +102,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="第31天：Python random 模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python120days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python 120 days" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python 120 days/第31天：Python random 模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="第79天：数据分析之 Numpy 初步" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python120days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,6 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.第31天：Python random 模块" />
         <item itemvalue="Python.第30天：Python collections 模块" />
         <item itemvalue="Python.第79天：数据分析之 Numpy 初步" />
         <item itemvalue="Python.第26天：Python os 模块详解" />
@@ -142,7 +166,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586621660050</updated>
-      <workItem from="1586621676959" duration="26302000" />
+      <workItem from="1586621676959" duration="31351000" />
+      <workItem from="1587036471229" duration="46000" />
+      <workItem from="1587040280862" duration="1708000" />
     </task>
     <servers />
   </component>
@@ -154,39 +180,44 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="381" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1586853834336" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1586764699745">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1587036517356">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586764699745" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1586940860848">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587036517356" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1587044112004">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586940860848" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1586940860847">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587044112004" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1587044112004">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586940860847" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1586940860847">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587044112004" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1587044112004">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586940860847" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1586940860848">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587044112004" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1587044112004">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586940860848" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587044112004" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1586792634445">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586792634445" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586938749297">
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1587036480745">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586938749297" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587036480745" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586967621400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586967621400" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python120days$25Python_datetime__time.coverage" NAME="第25天：Python datetime 和 time Coverage Results" MODIFIED="1586692018408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python 120 days" />
+    <SUITE FILE_PATH="coverage/python120days$31Python_random_.coverage" NAME="第31天：Python random 模块 Coverage Results" MODIFIED="1587044111995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python 120 days" />
     <SUITE FILE_PATH="coverage/python120days$26Python_os_.coverage" NAME="第26天：Python os 模块详解 Coverage Results" MODIFIED="1586832928744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python 120 days" />
-    <SUITE FILE_PATH="coverage/python120days$30Python_collections_.coverage" NAME="第30天：Python collections 模块 Coverage Results" MODIFIED="1586940860839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python 120 days" />
+    <SUITE FILE_PATH="coverage/python120days$30Python_collections_.coverage" NAME="第30天：Python collections 模块 Coverage Results" MODIFIED="1587006908352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python 120 days" />
     <SUITE FILE_PATH="coverage/python120days$79_Numpy_.coverage" NAME="第79天：数据分析之 Numpy 初步 Coverage Results" MODIFIED="1586934098328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python 120 days" />
   </component>
 </project>
