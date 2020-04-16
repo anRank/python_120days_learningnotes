@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76877724-943f-4a4a-b611-5f6de63b02a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python 120 days/第31天：Python random 模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python 120 days/第62天：HTTP 入门.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python 120 days/第31天：Python random 模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/python 120 days/第31天：Python random 模块.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +165,7 @@
       <updated>1586621660050</updated>
       <workItem from="1586621676959" duration="31351000" />
       <workItem from="1587036471229" duration="46000" />
-      <workItem from="1587040280862" duration="1708000" />
+      <workItem from="1587040280862" duration="2312000" />
     </task>
     <servers />
   </component>

@@ -36,3 +36,5 @@ print(random.choice(strtemp))
 lst = ['A', 'B', 'C', 'D', 'E']
 random.shuffle(lst)
 print(lst)
+
+# test
